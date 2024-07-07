@@ -10,7 +10,7 @@ def add_todo():
 
 
 st.title("My To-do App")
-st.subheader("This is just a simple to-do app that makes a list.")
+st.subheader("This is just a simple to-do app.")
 st.write("Add a new todo below or check a checkbox to remove it from the list.")
 
 
