@@ -9,8 +9,8 @@ def add_todo():
     functions.write_todos(todos)
 
 
-st.title("My To-do App")
-st.subheader("This is my to-do app.")
+st.title("My To-do App", color='red')
+st.subheader("This is your to-do app.")
 st.write("This is to increase your productivity.")
 
 
